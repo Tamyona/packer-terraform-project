@@ -8,7 +8,6 @@ variable subnet2 {}
 variable subnet3 {}
 
 # EC2
-variable ami_id {}
 variable instance_type {}
 variable instance_name {}
 
