@@ -1,11 +1,11 @@
-# variable "region" {
-#   default = "us-east-2"
-# }
+variable "region" {
+  default     = "us-east-1"
+}
 
-# variable "instance_type" {
-#   default = "t2.micro"
-# }
+variable "instance_type" {
+  default     = "t2.micro"
+}
 
-# variable "ami_name" {
-#   default = "wordpress-ami"
-# }
+variable "ami_name" {
+    default = "wordpress-ami"
+}
